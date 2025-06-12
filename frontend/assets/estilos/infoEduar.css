@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container-infoPersonal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    padding: 20px 120px;
+    box-sizing: border-box;
+}
+.lista-personal{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin-bottom: 20px;
+}
+
+.fila-superior{
+    display: flex;
+    gap: 40px;
+    text-decoration: underline;
+}
+
+.fila-inferior{
+    display: flex;
+    padding: 10px 0px;
+}
+
+li{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 19px;
+    list-style: none;
+}
+.icons-personal{
+    border-radius: 30%;
+    width: 40px;
+    height: 20px;
+    object-fit: contain;
+}
+
+.txt-sobre-mi {
+    max-width: 1200px;
+    text-align: center;
+    font-size: 17px;
+    line-height: 1.9;
+    text-align: justify;
+}
+

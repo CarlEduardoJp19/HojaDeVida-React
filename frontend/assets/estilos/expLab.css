@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding:0
+}
+
+.container-laboral{
+    width: 50%;
+    background-color: rgb(129, 228, 225);
+    height: 700px;
+}
+
+.txt-lab{
+    padding-top: 40px;
+    margin: 30px;
+}
+
+.contactos-laborales{
+    position: absolute;
+    left: 800px;
+    top: 985px;
+}

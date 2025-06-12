@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container-languages{
+    background-color: rgb(129, 228, 225);
+    width: 50%;
+}
+.lenguajes-longer{
+    color: rgb(19, 93, 111);
+}
+
+#txt-lenguajes{
+    color: rgb(19, 93, 111);
+    font-weight: bold;
+    padding-top: 20px;
+    margin: 10px 50px;
+}
+
+.fila-lenguajes{
+    display: flex;
+    gap: 120px;
+}
+
+.Abilitys{
+    margin-left: 40px;
+    font-weight: bold;
+    color: rgb(19, 93, 111);
+}
+
+#txt-ability{
+    color: rgb(19, 93, 111);
+}
+
+.education{
+    position: absolute;
+    top: 585px;
+    left: 800px;
+    background-color: white;
+}
